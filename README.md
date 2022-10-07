@@ -1,5 +1,5 @@
 # Student-Management-system
-JDBC Test
+JDBC Test.
 It's my first GitHub code.
 Fithting Naruto~!
 Fighting every day~！
